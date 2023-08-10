@@ -123,3 +123,35 @@ nav{
     display:flex;
     justify-content: flex-end;
 }
+
+.signup-section{
+    padding: 50px;
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup-content{
+    background-color: #3882F6;
+    width: 60%;
+    height: 50%;
+    padding: 25px 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+}
+.signup-text{
+    padding: 10px;
+}
+.signup-text p {
+    font-size:0.7rem;
+}
+.signup-content button{
+    background-color:#3882F6;
+    border: 1.5px solid white;
+    border-radius: 5px;
+    padding: 2px 18px;
+    color:white;
+}
